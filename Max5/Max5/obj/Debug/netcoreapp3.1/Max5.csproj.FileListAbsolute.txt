@@ -1,0 +1,13 @@
+C:\Users\Danil\source\repos\Max5\Max5\bin\Debug\netcoreapp3.1\Max5.exe
+C:\Users\Danil\source\repos\Max5\Max5\bin\Debug\netcoreapp3.1\Max5.deps.json
+C:\Users\Danil\source\repos\Max5\Max5\bin\Debug\netcoreapp3.1\Max5.runtimeconfig.json
+C:\Users\Danil\source\repos\Max5\Max5\bin\Debug\netcoreapp3.1\Max5.runtimeconfig.dev.json
+C:\Users\Danil\source\repos\Max5\Max5\bin\Debug\netcoreapp3.1\Max5.dll
+C:\Users\Danil\source\repos\Max5\Max5\bin\Debug\netcoreapp3.1\Max5.pdb
+C:\Users\Danil\source\repos\Max5\Max5\obj\Debug\netcoreapp3.1\Max5.csprojAssemblyReference.cache
+C:\Users\Danil\source\repos\Max5\Max5\obj\Debug\netcoreapp3.1\Max5.AssemblyInfoInputs.cache
+C:\Users\Danil\source\repos\Max5\Max5\obj\Debug\netcoreapp3.1\Max5.AssemblyInfo.cs
+C:\Users\Danil\source\repos\Max5\Max5\obj\Debug\netcoreapp3.1\Max5.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\Max5\Max5\obj\Debug\netcoreapp3.1\Max5.dll
+C:\Users\Danil\source\repos\Max5\Max5\obj\Debug\netcoreapp3.1\Max5.pdb
+C:\Users\Danil\source\repos\Max5\Max5\obj\Debug\netcoreapp3.1\Max5.genruntimeconfig.cache

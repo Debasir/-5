@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "chRpXi7OF6ax/OgprodIPqnkv2VHLnCNbVs2u7D6BdvgF7zVzyCoOU9DdWZ33k+0PsyWXKG2F5/X7yvYVp4XYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danil\\source\\repos\\Max5\\Max5\\Max5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512",
+    "C:\\Users\\Danil\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Danil\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
